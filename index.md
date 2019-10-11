@@ -15,9 +15,9 @@ I am broadly interested in Machine Learning with a particular focus on Natural L
 
 ## Publications
 
-Tripathi, Aditay, et al. "Adversarial learning of raw speech features for domain invariant speech recognition."(https://ieeexplore.ieee.org/abstract/document/8462452) 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018.
+Tripathi, Aditay, et al. ["Adversarial learning of raw speech features for domain invariant speech recognition."](https://ieeexplore.ieee.org/abstract/document/8462452) 2018 IEEE International Conference on Acoustics, Speech and Signal Processing (ICASSP). IEEE, 2018.
 
-Majumdar, Angshul, and Aditay Tripathi. "Asymmetric stacked autoencoder."(https://ieeexplore.ieee.org/abstract/document/7965949) 2017 International Joint Conference on Neural Networks (IJCNN). IEEE, 2017.
+Majumdar, Angshul, and Aditay Tripathi. ["Asymmetric stacked autoencoder."](https://ieeexplore.ieee.org/abstract/document/7965949) 2017 International Joint Conference on Neural Networks (IJCNN). IEEE, 2017.
 
 ## Work Experience
 
