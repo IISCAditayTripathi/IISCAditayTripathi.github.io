@@ -22,7 +22,7 @@ Majumdar, Angshul, and Aditay Tripathi. "Asymmetric stacked autoencoder."(https:
 ## Work Experience
 
 ### Verisk Analytics, Hyderabad
-Research Intern - 21st Aug 2017 23st - July  2018
+Cognitive Analytics Engineer - 21st Aug 2017 23st - July  2018
 
 ### TCS Innovation Labs, Banglore
 Research Intern - 15th May 2016 - 9th July 2016
@@ -31,7 +31,7 @@ Assistant Manager — 14th July 2014 - 21st July 2015
 
 ## CV
 
-[PDF]({{site.url}}/download/CV.pdf)
+[PDF]({{site.url}}/download/CV_updated.pdf)
 
 ## Contact
 
